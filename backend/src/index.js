@@ -34,10 +34,10 @@ const routes = require('./routes');
 
 const app = express();
 
-/*app.use(cors({
-    origin: 'rayra-abreu.github.io/'
+app.use(cors({
+    /*origin: 'rayra-abreu.github.io/'*/
 }));
-*/
+
 app.use(express.json());
 app.use(routes);
 

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Rota / Recurso 
  */
 
@@ -35,7 +35,7 @@ const routes = require('./routes');
 const app = express();
 
 app.use(cors({
-    /*origin: 'rayra-abreu.github.io/'*/
+    /*origin: 'http://localhost:3000'*/
 }));
 
 app.use(express.json());

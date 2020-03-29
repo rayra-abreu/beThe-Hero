@@ -5,7 +5,7 @@
   - [NodeJS](https://nodejs.org/en/)
   - [React](https://reactjs.org)
   - [React Native](https://facebook.github.io/react-native/)
-  - [SQLite3](https://www.sqlite.org/version3.html)
+  - [SQLite](https://www.sqlite.org/index.html)
   - [Expo](https://expo.io/)
 
 <div align="center">

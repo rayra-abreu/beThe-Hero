@@ -11,6 +11,6 @@
  </div>
  
  ### Aplicativo Mobile
-<div>
+<div align="center">
   <img src="https://rayra-abreu.github.io/beTheHero/frontend/src/assets/app.png" height="563" width="547">
 </div

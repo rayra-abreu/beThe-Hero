@@ -1,5 +1,12 @@
 ## Semana OmniStack 11.0 - Rocketseat
 
+## Tecnologias
+
+  - [NodeJS](https://nodejs.org/en/)
+  - [React](https://reactjs.org)
+  - [React Native](https://facebook.github.io/react-native/)
+  - [Expo](https://expo.io/)
+
 ### Sistema WEB
 <div align="center">
   <img src="https://rayra-abreu.github.io/beTheHero/frontend/src/assets/login.PNG" height="274" width="216">

@@ -22,3 +22,9 @@
   <h2>Aplicativo Mobile</h2>
   <img src="https://rayra-abreu.github.io/beTheHero/frontend/src/assets/app.png" height="563" width="547">
 </div
+  
+---
+  
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.

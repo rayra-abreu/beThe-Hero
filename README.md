@@ -2,8 +2,8 @@
 
 ## Tecnologias
 
-  - [NodeJS](https://nodejs.org/en/)
-  - [React](https://reactjs.org)
+  - [Node js](https://nodejs.org/en/)
+  - [React js](https://reactjs.org)
   - [React Native](https://facebook.github.io/react-native/)
   - [SQLite](https://www.sqlite.org/index.html)
   - [Expo](https://expo.io/)
